@@ -2,7 +2,6 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/R3verseNinja/Steam-Manifest-Gen?label=Release&logo=github)](https://github.com/R3verseNinja/Steam-Manifest-Gen/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/R3verseNinja/Steam-Manifest-Gen/total?label=Downloads)](https://github.com/R3verseNinja/Steam-Manifest-Gen/releases)
-[![Issues](https://img.shields.io/github/issues/R3verseNinja/Steam-Manifest-Gen)](https://github.com/R3verseNinja/Steam-Manifest-Gen/issues)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 
 [![Website](https://img.shields.io/badge/Website-steamclouds.online-0aa2ff?logo=google-chrome)](https://steamclouds.online)
