@@ -10,6 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord)](https://discord.gg/Qsp6Sbq6wy)
 
 [![Donate](https://img.shields.io/badge/Donate-Saweria%20%7C%20Ko--Fi%20%7C%20PayPal-orange?style=for-the-badge&logo=paypal)](#-support--donate)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQ5WTPclB4f9DALY8GqPCJw?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://youtube.com/@smart_mods)
 
 
 Built for gamers who demand everything, this utility unlocks full Steam access, free of charge. It detects Denuvo, flags third-party launchers, and delivers seamless fallback logic wrapped in a sleek dark UI. Pure play. Zero compromise.
