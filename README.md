@@ -44,13 +44,18 @@ Built for gamers who demand everything, this utility unlocks full Steam access, 
 - **Windows 10/11**
 - Internet connection
 
-### Usage
+### Step 1 (Recommended)
 1. Launch the app (portable EXE)  
 2. Search **Title** or **AppID**, select a result  
-3. Pick **Save folder** (default: `./steam_manifest_gen`)  
+3. Tick **Add to Library**
 4. Click **Start Download**  
-5. Find your `appid.lua` inside `.[save]/[AppID]GameName/`  
-6. **Drag all files** into SteamClouds
+5. Restart Steam
+### Step 2 (Manual)
+1. Launch the app (portable EXE)  
+2. Open the **Add Games** tab
+3. **Drag all files** into there
+4. If prompted, Pick the target AppID so manifest link to the correct games
+5. Restart Steam
 
 ---
 
@@ -84,7 +89,7 @@ Remove any time. Status shows **SET / NOT SET**.
 
 ---
 
-### ⚙️ How to Use It in Steam Manifest Gen
+### ⚙️ How to Use It in Steam Clouds Ultimate
 
 1. Open your app → go to **Settings** → paste the token into **GitHub Token**  
 2. **Save.** Your app can now make authenticated requests to GitHub’s API—reducing 403 rate-limit errors and improving reliability  
