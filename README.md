@@ -1,4 +1,4 @@
-# Steam Manifest Gen — by SteamClouds
+# Steam Clouds Ultimate
 
 [![Latest Release](https://img.shields.io/github/v/release/R3verseNinja/Steam-Manifest-Gen?label=Release&logo=github)](https://github.com/R3verseNinja/Steam-Manifest-Gen/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/R3verseNinja/Steam-Manifest-Gen/total?label=Downloads)](https://github.com/R3verseNinja/Steam-Manifest-Gen/releases)
