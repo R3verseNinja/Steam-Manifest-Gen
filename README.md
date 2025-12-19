@@ -29,7 +29,6 @@ Built for gamers who demand everything, this utility unlocks full Steam access, 
   - Connects to a distributed network of 26+ database servers, with scalability for future expansion
 
 - **Quality of Life**
-  - **Version lock**: prompts to update if a newer release exists
   - **GitHub token** setting to increase API limits
   - **Dark theme** UI with compact layout and detailed logs
 
